@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+python-docx
+ollama   (if used)
+matplotlib (if used)

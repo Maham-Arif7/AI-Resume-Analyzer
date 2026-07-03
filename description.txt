@@ -1,0 +1,20 @@
+Python Developer
+
+We are looking for a Python Developer with strong programming and problem-solving skills.
+
+Requirements:
+- Python programming
+- SQL and database management
+- Machine Learning basics
+- Data Analysis
+- Object-Oriented Programming (OOP)
+- Knowledge of Git and GitHub
+- Communication skills
+- Teamwork and collaboration
+
+Responsibilities:
+- Develop Python applications
+- Work with databases
+- Analyze data and generate reports
+- Build and test software solutions
+- Collaborate with team members
