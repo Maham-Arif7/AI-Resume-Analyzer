@@ -1,4 +1,6 @@
-Python Developer
+The Job Discription that the AI resume analyzer will use to compare the uploaded resumes and match the key words and requirements:
+
+##Python Developer
 
 We are looking for a Python Developer with strong programming and problem-solving skills.
 
