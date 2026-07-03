@@ -62,12 +62,12 @@ This project is open-source and available under the MIT License.
 ## Demo
 Here’s what the app looks like when running:
 
-![AI Resume Analyzer Dashboard](images/demo.png)
-![Resume Upload Screen](images/upload.png)
-![Analysis Results](images/results.png)
-![Job discription](images/jobdiscription.png)
-![Missing skills](images/missingskills.png)
-![Suggestions](images/suggestions.png)
+![AI Resume Analyzer Dashboard](demo.png)
+![Resume Upload Screen](upload.png)
+![Analysis Results](results.png)
+![Job discription](jobdiscription.png)
+![Missing skills](missingskills.png)
+![Suggestions](suggestions.png)
 
 
 
