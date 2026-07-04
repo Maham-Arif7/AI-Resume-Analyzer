@@ -17,9 +17,8 @@ A beginner-friendly project built with **Python** and **Streamlit** that evaluat
 - Pandas
 - OpenAI API (for NLP analysis)
 
-## Installation
+### Installation
 1. Clone the repository:
-   ```bash
    git clone https://github.com/Maham-Arif7/AI-Resume-Analyzer.git
 
 2.  Navigate to the project folder:
@@ -28,13 +27,13 @@ A beginner-friendly project built with **Python** and **Streamlit** that evaluat
 3. Install dependencies:
    pip install -r requirements.txt
 
-##Usage
+### Usage
 Run streamlit app:
   streamlit run app.py
   
 Upload a resume and job description, then view the analysis and scoring results on the dashboard. 
 
-##Project Structure
+### Project Structure
 app.py → Main Streamlit application
 
 resume_parser.py → Resume text extraction logic
@@ -46,7 +45,7 @@ requirements.txt → Dependencies
 description.txt → Project notes
 
 
-##Future Enhancements
+### Future Enhancements
 ATS compatibility checks
 
 Advanced keyword weighting
@@ -55,19 +54,33 @@ Deployment on cloud platforms
 
 Expanded analytics for resume formatting
 
-##License
+### License
 This project is open-source and available under the MIT License.
 
 
 ## Demo
 Here’s what the app looks like when running:
+## Screenshots
 
-![AI Resume Analyzer Dashboard](demo.png)
-![Resume Upload Screen](upload.png)
-![Analysis Results](results.png)
-![Job discription](jobdiscription.png)
-![Missing skills](missingskills.png)
-![Suggestions](suggestions.png)
+### Dashboard
+![Dashboard](images/demo.png)
+
+### Upload Resume
+![Upload Resume](images/upload.png)
+
+### Match with Job Discription
+![Job Discription](images/jobdiscription.png)
+
+### Results Analysis 
+![Analysis Results](images/missingskills.png)
+
+### Suggestions
+![Suggestions](images/suggestions.png)
+
+### Scoring System
+![Scoring System](images/results.png)
+
+
 
 
 
