@@ -16,6 +16,8 @@ A beginner-friendly project built with **Python** and **Streamlit** that evaluat
 - PyPDF2 / python-docx
 - Pandas
 - OpenAI API (for NLP analysis)
+- Ollama (Optional)
+  -- I used Ollama, OpenAI or any other API can be used.
 
 ### Installation
 1. Clone the repository:
